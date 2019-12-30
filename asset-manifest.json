@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/definitely-not-dobble-client/static/css/main.afecc2e1.chunk.css",
-    "main.js": "/definitely-not-dobble-client/static/js/main.1ddb0aac.chunk.js",
-    "main.js.map": "/definitely-not-dobble-client/static/js/main.1ddb0aac.chunk.js.map",
+    "main.js": "/definitely-not-dobble-client/static/js/main.f76db321.chunk.js",
+    "main.js.map": "/definitely-not-dobble-client/static/js/main.f76db321.chunk.js.map",
     "runtime-main.js": "/definitely-not-dobble-client/static/js/runtime-main.235be4e9.js",
     "runtime-main.js.map": "/definitely-not-dobble-client/static/js/runtime-main.235be4e9.js.map",
     "static/js/2.cbd56396.chunk.js": "/definitely-not-dobble-client/static/js/2.cbd56396.chunk.js",
     "static/js/2.cbd56396.chunk.js.map": "/definitely-not-dobble-client/static/js/2.cbd56396.chunk.js.map",
     "index.html": "/definitely-not-dobble-client/index.html",
-    "precache-manifest.63dccad0aaa40eb9ce1d0510e710b199.js": "/definitely-not-dobble-client/precache-manifest.63dccad0aaa40eb9ce1d0510e710b199.js",
+    "precache-manifest.ea94d4721ceb56fa9a9628d94936bc31.js": "/definitely-not-dobble-client/precache-manifest.ea94d4721ceb56fa9a9628d94936bc31.js",
     "service-worker.js": "/definitely-not-dobble-client/service-worker.js",
     "static/css/main.afecc2e1.chunk.css.map": "/definitely-not-dobble-client/static/css/main.afecc2e1.chunk.css.map",
     "static/js/2.cbd56396.chunk.js.LICENSE": "/definitely-not-dobble-client/static/js/2.cbd56396.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.235be4e9.js",
     "static/js/2.cbd56396.chunk.js",
     "static/css/main.afecc2e1.chunk.css",
-    "static/js/main.1ddb0aac.chunk.js"
+    "static/js/main.f76db321.chunk.js"
   ]
 }

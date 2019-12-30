@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd7495df0e00469e5d4e266e6881171d",
+    "revision": "69d183a9bd2457b26ad1d73173861bfd",
     "url": "/definitely-not-dobble-client/index.html"
   },
   {
-    "revision": "9fc8b64d9e7222f869fb",
+    "revision": "c51138fe771de8aec5dc",
     "url": "/definitely-not-dobble-client/static/css/main.afecc2e1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/definitely-not-dobble-client/static/js/2.cbd56396.chunk.js.LICENSE"
   },
   {
-    "revision": "9fc8b64d9e7222f869fb",
-    "url": "/definitely-not-dobble-client/static/js/main.1ddb0aac.chunk.js"
+    "revision": "c51138fe771de8aec5dc",
+    "url": "/definitely-not-dobble-client/static/js/main.f76db321.chunk.js"
   },
   {
     "revision": "d0fd4dcaebe1cc59b08b",

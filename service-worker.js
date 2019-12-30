@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/definitely-not-dobble-client/precache-manifest.63dccad0aaa40eb9ce1d0510e710b199.js"
+  "/definitely-not-dobble-client/precache-manifest.ea94d4721ceb56fa9a9628d94936bc31.js"
 );
 
 self.addEventListener('message', (event) => {
