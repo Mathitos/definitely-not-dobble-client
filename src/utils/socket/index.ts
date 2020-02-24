@@ -45,11 +45,9 @@ export type ReceivedMessage = {
 }
 
 const url =
-  process.env.NODE_ENV !== 'production'
-    ? 'localhost:4000'
-    : 'defiant-blueviolet-greathornedowl.gigalixirapp.com'
+  process.env.NODE_ENV !== 'production' ? 'localhost:4000' : 'definitely-not-dobble.herokuapp.com'
 
-const socket = new Socket(`ws://${url}/socket`, {
+const socket = new Socket(`wss://${url}/socket`, {
   params: { user_token: 'user_token_test' },
 })
 socket.connect()
